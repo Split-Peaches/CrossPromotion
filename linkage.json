@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "title": "Space Explorer",
+      "description": "A fun space adventure game!",
+      "thumbnail": "https://yourserver.com/thumbnails/space_explorer.png",
+      "download": "https://yourserver.com/games/space_explorer.zip"
+    },
+    {
+      "title": "Dungeon Crawler",
+      "description": "Explore dungeons and fight monsters.",
+      "thumbnail": "https://yourserver.com/thumbnails/dungeon_crawler.png",
+      "download": "https://yourserver.com/games/dungeon_crawler.zip"
+    }
+  ]
+}
