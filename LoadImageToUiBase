@@ -1,0 +1,19 @@
+using UnityEngine.UI;
+
+
+
+//CALL WITH: StartCoroutine(LoadImageToUI("Space Explorer_thumb.png", myUIImageComponent));
+IEnumerator LoadImageToUI(string filename, Image uiImage)
+{
+    string filePath = Path.Combine(Application.persistentDataPath, filename);
+
+    if (File.Exists(filePath))
+    {
+        byte[] imageBytes = File.ReadAllBytes(filePath);
+        Texture2D tex = new Texture2D(2, 2);
+        tex.LoadImage(imageBytes);
+        
+        uiImage.sprite = Sprite.Create(tex, new Rect(0, 0, tex.width, tex.height), new Vector2(0.5f, 0.5f));
+        Debug.Log("Loaded cached image: " + filePath);
+    }
+}
