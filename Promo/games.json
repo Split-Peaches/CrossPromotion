@@ -4,19 +4,19 @@
       "title": "Beauty Clicker - April's Dreams",
       "description": "A fun space adventure game!",
       "thumbnail": "https://yourserver.com/thumbnails/space_explorer.png",
-      "download": "https://yourserver.com/games/space_explorer.zip"
+      "url": "https://yourserver.com/games/space_explorer.zip"
     },
     {
       "title": "Beauty Clicker - Belle's Dreams",
       "description": "Explore dungeons and fight monsters.",
       "thumbnail": "https://yourserver.com/thumbnails/dungeon_crawler.png",
-      "download": "https://yourserver.com/games/dungeon_crawler.zip"
+      "url": "https://yourserver.com/games/dungeon_crawler.zip"
     },
     {
       "title": "Beauty Clicker - Judy's Dreams",
       "description": "Explore dungeons and fight monsters.",
       "thumbnail": "https://yourserver.com/thumbnails/dungeon_crawler.png",
-      "download": "https://yourserver.com/games/dungeon_crawler.zip"
+      "url": "https://yourserver.com/games/dungeon_crawler.zip"
     }
   ]
 }
