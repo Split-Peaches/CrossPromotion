@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "Helloween Sale 25",
+      "description": "Get a taste of Amy’s charm in this spicy idle clicker! ❤️",
+      "thumbnail": "https://raw.githubusercontent.com/Split-Peaches/CrossPromotion/refs/heads/main/Promo/Helloween-25-33-Percent-Off-Sale-Split-Peaches.png",
+      "url": "https://split-peaches.itch.io/"
+    },
+    {
       "title": "Beauty Clicker - Amy's Dreams",
       "description": "Get a taste of Amy’s charm in this spicy idle clicker! ❤️",
       "thumbnail": "https://raw.githubusercontent.com/Split-Peaches/CrossPromotion/refs/heads/main/Promo/Beauty%20Clicker%20-%20Amys%20Dreams%20Cover.png",
