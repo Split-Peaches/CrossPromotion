@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "title": "Beauty Clicker: Noelle's Dreams",
+      "description": "Click your way into Noelles's deepest desires",
+      "thumbnail": "https://raw.githubusercontent.com/Split-Peaches/CrossPromotion/refs/heads/main/Promo/Beauty-Clicker-Noelles-Dreams-Split-Peaches-Cover.png",
+      "url": "https://split-peaches.itch.io/beauty-clicker-noelles-dreams"
+    },
+    {
       "title": "Beauty Clicker: Pirate Foxy's Dreams",
       "description": "Click your way into Pirate Foxy's deepest desires",
       "thumbnail": "https://raw.githubusercontent.com/Split-Peaches/CrossPromotion/refs/heads/main/Promo/Beauty-Clicker-Pirate-Foxy-Demo-Cover-Split-Peaches.PNG",
